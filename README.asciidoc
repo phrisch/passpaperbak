@@ -1,7 +1,5 @@
 = passpaperbak
 
-2017-05-07 Simon Frisch link:mailto[<hallo (Q) phrisch_de>]
-
 Back Up and Restore link:https://www.passwordstore.org[UNIX Password-Store].
 
 == Description
