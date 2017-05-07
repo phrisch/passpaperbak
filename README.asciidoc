@@ -7,7 +7,9 @@ passpaperbak enables an easy back-up of password-store on paper. Export your pas
 In the case of loss of the genuine passwordfiles, scan the copys using OCR or the QR reader function of passpaperbak. The passwords will then be added automatically to password-store.
 
 == Dependencies
-passpaperbak depends on password-store, qrencode and zbar.
+passpaperbak depends on link:https://www.passwordstore.org[password-store], link:https://fukuchi.org/works/qrencode/manual/qrencode_8h.html[qrencode] and link:http://zbar.sourceforge.net[zbar].
+
+Tested on Mac OS X 10.9.5, bash-4.3.
 
 == Options
 passpaperbak
