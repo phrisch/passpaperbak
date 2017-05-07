@@ -1,7 +1,7 @@
 = passpaperbak
-Back Up and Restore UNIX Password-Store
-
 2017-05-07 Simon Frisch link:mailto[<hallo (Q) phrisch_de>]
+
+Back Up and Restore UNIX Password-Store
 
 == Description
 passpaperbak enables an easy back-up of password-store on paper. Export your passwords as text or QR codes, print them and preserve them in a safe place.
