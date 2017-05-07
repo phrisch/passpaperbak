@@ -15,11 +15,11 @@ Tested on Mac OS X 10.9.5, bash-4.3.
 == Options
 passpaperbak
 
-* -h: show this help
+* -h: show this help.
 
-* -i [FILE(S)]: import QR code(s) from file(s) into password-store
+* -i [FILE(S)]: import QR code(s) from file(s) into password-store.
 
-* -t: export entries of password-store into unencrypted, seperate text files.
+* -t: export entries of password-store into seperate, unencrypted text files.
 
 * -T: export entries of password-store into one common, unencrypted text file.
 
