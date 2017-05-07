@@ -11,8 +11,13 @@ passpaperbak depends on password-store, qrencode and zbar.
 
 == Options
 passpaperbak
-	* -h: show this help
-	* -i [FILE(S)]: import QR code(s) from file(s) into password-store
-	* -t: export entries of password-store into unencrypted, seperate text files.
-	* -T: export entries of password-store into one common, unencrypted text file.
-	* -q: export entries of password-store to unencrypted QR codes.
+
+* -h: show this help
+
+* -i [FILE(S)]: import QR code(s) from file(s) into password-store
+
+* -t: export entries of password-store into unencrypted, seperate text files.
+
+* -T: export entries of password-store into one common, unencrypted text file.
+
+* -q: export entries of password-store to unencrypted QR codes.
