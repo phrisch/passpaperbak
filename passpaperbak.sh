@@ -1,8 +1,8 @@
 #!/bin/bash
 # passpaperbak
 # 2017-05-06
-# Simon Frisch (hallo@phrisch.de)
-# exports password-store to qrcode and text
+# Simon Frisch <hallo@phrisch.de>
+# exports password-store to QR code and text
 # depends on qrencode, password-store
 
 SCRIPTNAME=passpaperbak
@@ -44,7 +44,7 @@ fi
 if [ $(( $OPT_t+$OPT_T+$OPT_q )) -ge 1 ]
 then
 	echo "Exporting from password-store:"
-	echo -e "/!\\ \t All passwords are being exporteed without encryption."
+	echo -e "/!\\ \t All passwords are being exported without encryption."
 	echo -e "\t Delete the export files immediately  after printing!"
 	echo
 
